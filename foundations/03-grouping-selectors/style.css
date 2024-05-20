@@ -12,3 +12,22 @@ button {
 #second {
     background-color: yellow;
 }
+
+/*
+
+.inverted, .fancy {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.inverted {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.fancy {
+    background-color: yellow;
+}
+
+*/
